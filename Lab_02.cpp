@@ -12,6 +12,7 @@ int main() {
     double z2; // результат обчислення 1-го виразу
     double y; // результат обчислення 2-го виразу
     int zmina;
+    int sun;
     cout << "y=";cin >> y;
     cout << "x=";cin >> x;
     z1 = cos(x)*cos(x)*cos(x)*cos(x) + sin(y)*sin(y) + 1./4 * sin(2*x)* sin(2*x) -1;
