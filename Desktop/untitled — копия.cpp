@@ -1,7 +1,3 @@
-// Lab_03_2.cpp
-// < кулик олег >
-// Лабораторна робота No 3.2
-// Розгалуження, задане формулою: функція з параметрами. // Варіант 0.8
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -11,6 +7,7 @@ int main() {
     double b; // вхідний параметр
     double c; // вхідний параметр
     double F; // результат обчислення виразу
+    double z;
     cout <<"a=";cin >>a;
     cout <<"b=";cin >>b;
     cout <<"c=";cin >>c;
